@@ -1,0 +1,31 @@
+{
+    "id": "29CF9167",
+    "path": "~/Desktop/a_32/x.qmd",
+    "project_path": "x.qmd",
+    "type": "quarto_markdown",
+    "hash": "3597874705",
+    "contents": "",
+    "dirty": false,
+    "created": 1716878501798.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,7",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1716878515,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1716878515162,
+    "read_only": false,
+    "read_only_alternatives": []
+}
